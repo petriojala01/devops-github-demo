@@ -1,9 +1,9 @@
 
 ## Skills Development 
 
-The quick brown fox jumps over the lazy dog.
-
 Peter Piper picked a peck of pickled peppers
 A peck of pickled peppers Peter Piper picked
 If Peter Piper picked a peck of pickled peppers
 Where’s the peck of pickled peppers Peter Piper picked?
+
+The quick brown fox jumps over the lazy dog.
