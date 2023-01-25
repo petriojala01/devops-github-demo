@@ -15,5 +15,3 @@ _Italic text_
 <sup>Superscript</sup>
 
 > Text quote
-![Uploading image.png…]()
-
