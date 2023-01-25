@@ -7,11 +7,16 @@
 
 ## Subheader
 ### Subsubheader
-#### Subsubsubheader**Bold text**
+#### Subsubsubheader
+
+**Bold text**
+
 _Italic text_
+
 **Bold and _nested italic_**
 
 <sub>Subscript</sub>
+
 <sup>Superscript</sup>
 
 > Text quote
